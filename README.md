@@ -1,14 +1,8 @@
-# Real-Time Event Ticketing System
+# React + Vite
 
-## Purpose
-The Real-Time Event Ticketing System is intended to replicate a real-world ticketing platform in which event tickets are constantly added and purchased in real-time. Through the use of contemporary web technologies, this project seeks to give practical experience with concurrency management, multi-threading, and real-time data synchronisation. 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Repo 
+Currently, two official plugins are available:
 
-
-## Table of Contents
-
-- Key Features
-- Project Structure
-  
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
